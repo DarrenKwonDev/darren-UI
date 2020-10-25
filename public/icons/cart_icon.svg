@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="cart_icon" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#000;stroke-linecap:square}
+        </style>
+    </defs>
+    <rect id="사각형_2854" width="32" height="32" fill="none" rx="16"/>
+    <g id="그룹_69649" transform="translate(-2710 -332)">
+        <path id="패스_783" d="M6 6h16.913l-1.692 10.148H7.691z" class="cls-2" transform="translate(2713.383 335)"/>
+        <circle id="타원_375" cx="1" cy="1" r="1" class="cls-2" transform="translate(2722 354)"/>
+        <circle id="타원_376" cx="1" cy="1" r="1" class="cls-2" transform="translate(2732 354)"/>
+        <path id="패스_784" d="M6.383 6H3" class="cls-2" transform="translate(2713 335)"/>
+    </g>
+</svg>

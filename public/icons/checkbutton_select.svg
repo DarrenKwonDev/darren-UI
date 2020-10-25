@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g>
+        <g fill="#0379c7" stroke="#0379c7" transform="translate(-24 -659) translate(24 659)">
+            <rect width="20" height="20" stroke="none" rx="2"/>
+            <rect width="19" height="19" x=".5" y=".5" fill="none" rx="1.5"/>
+        </g>
+        <g>
+            <path fill="none" stroke="#fff" stroke-linecap="square" stroke-width="2px" d="M4 10.763L7.136 13.9l6.9-6.9" transform="translate(-24 -659) translate(29.445 665.001) translate(-4 -7)"/>
+        </g>
+    </g>
+</svg>
